@@ -40,6 +40,16 @@ So in brief:
 
 Cryptocurrency is a digital alternative to money that holds its value based on supply and demand.
 
+
+
+
+<h2>dive into the cryptoworld</h2>
+<p>choose from our list of recently updated news and updated post</p>
+<a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a> <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(199,201,22,0.7)" font-color="rgba(16,20,105,1)" posts-number="9" content-ids="652okqxgm2YvGOaZ" width="600"></publish0x-posts-widget>
+<a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/9475575c3a22cc0ab95d45e54f2f32c4c1448ef1744b9ca7e03dc56ddad56dd3.gif" width="160" height="600" /></a>
+<a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/9475575c3a22cc0ab95d45e54f2f32c4c1448ef1744b9ca7e03dc56ddad56dd3.gif" width="160" height="600" /></a>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(199,201,22,0.7)" font-color="rgba(16,20,105,1)" posts-number="9" content-ids="652okqxgm2YvGOaZ,d9ypZzq3XNQbGL3E,X547689Rx3YnzbZy" width="600"></publish0x-posts-widget> <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(54,158,47,0.68)" font-color="rgba(18,56,112,1)" posts-number="9" content-ids="V6zXRvqkdEQlA4Kn,6zXRvqkpR1QlA4Kn,n41VEQGrjaqMJD0g" width="600"></publish0x-posts-widget>
+<a href="https://brave.com/?ref=kay986"><img src="https://cdn.publish0x.com/prod/fs/images/9475575c3a22cc0ab95d45e54f2f32c4c1448ef1744b9ca7e03dc56ddad56dd3.gif" width="160" height="600" /></a>
 <h1>Fascinating Cryptocurrency Facts</h1>
 
 <p1>A post about Bitcoin appears every 3 seconds on social media.</p1>
@@ -57,15 +67,6 @@ Cryptocurrency is a digital alternative to money that holds its value based on s
 <h1>Before you just lay all the facts ,  find out some of the specifics about cryptocurrency. 
  Browse through the pages of this site and gather all info you will need in your fresh cryptocurrency journey</h1>
 
-
-
-<h2>dive into the cryptoworld</h2>
-<p>choose from our list of recently updated news and updated post</p>
-<a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a> <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(199,201,22,0.7)" font-color="rgba(16,20,105,1)" posts-number="9" content-ids="652okqxgm2YvGOaZ" width="600"></publish0x-posts-widget>
-<a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/9475575c3a22cc0ab95d45e54f2f32c4c1448ef1744b9ca7e03dc56ddad56dd3.gif" width="160" height="600" /></a>
-<a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/9475575c3a22cc0ab95d45e54f2f32c4c1448ef1744b9ca7e03dc56ddad56dd3.gif" width="160" height="600" /></a>
-<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(199,201,22,0.7)" font-color="rgba(16,20,105,1)" posts-number="9" content-ids="652okqxgm2YvGOaZ,d9ypZzq3XNQbGL3E,X547689Rx3YnzbZy" width="600"></publish0x-posts-widget> <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(54,158,47,0.68)" font-color="rgba(18,56,112,1)" posts-number="9" content-ids="V6zXRvqkdEQlA4Kn,6zXRvqkpR1QlA4Kn,n41VEQGrjaqMJD0g" width="600"></publish0x-posts-widget>
-<a href="https://brave.com/?ref=kay986"><img src="https://cdn.publish0x.com/prod/fs/images/9475575c3a22cc0ab95d45e54f2f32c4c1448ef1744b9ca7e03dc56ddad56dd3.gif" width="160" height="600" /></a>
 <a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/9475575c3a22cc0ab95d45e54f2f32c4c1448ef1744b9ca7e03dc56ddad56dd3.gif" width="160" height="600" /></a>
 <a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/9475575c3a22cc0ab95d45e54f2f32c4c1448ef1744b9ca7e03dc56ddad56dd3.gif" width="160" height="600" /></a>
 <a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a>
