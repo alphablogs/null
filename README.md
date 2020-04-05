@@ -11,7 +11,6 @@
 <p>So in brief:</p>
 
 <p>Cryptocurrency is a digital alternative to money that holds its value based on supply and demand.</p>
-
 <p>dive into the cryptoworld</p>
 <p>choose from our list of recently updated news and updated post</p>
 <p>It is of a truth that cryptocurrency is no more news to most people...as at last report on a statistics carried out by an american based research group atleast 42 million bit coin wallet exists.</p>
@@ -42,7 +41,9 @@
 <p>But how did this craze came to be? And how has it been going for so long?</p>
 <p>We’ve got you covered with the latest stats.</p>
 <h1># LATEST CRYPTO NEWS.</h1>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(1,1,18,1)" font-color="rgba(36,209,109,1)" posts-number="9" content-ids="652okqxgm2YvGOaZ,r6XW4jQr2ZQvyMwE,n41VEQGrjaqMJD0g" width="600"></publish0x-posts-widget>
 <h2>trending posts on publish0x</h2>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(1,1,18,1)" font-color="rgba(36,209,109,1)" posts-number="9" content-ids="652okqxgm2YvGOaZ,r6XW4jQr2ZQvyMwE,n41VEQGrjaqMJD0g" width="600"></publish0x-posts-widget>
 <p>WELCOME TO ALPHABLOGS</p>
 <p>learn all about cryptocurrency,get latest news,updates and so much more from here</p>
 <p>check through posts on here and click on any article to learn about crypto</p>
