@@ -49,7 +49,6 @@
 <p>check through posts on here and click on any article to learn about crypto</p>
 
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
-
 <h2>alphainitial1@gmail.com</h2>
 
 https://metamask.app.link/send/0x12d8125AbdB4486a01B2Bd3C674787A910Be375e@1?value=1e16
