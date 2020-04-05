@@ -1,7 +1,7 @@
-<h1>HELLO WORLD!</h1>
-WELCOME TO ALPHABLOGS
-Start Making Money Online
-HERE YOU CAN RELAX AND BROWSE EASILY THROUGH THE PAGES OF THI SITE AS YOU LEARN ABOUT CRYPTO
+<h1>HELLO YOU!</h1>
+<h2>WELCOME TO ALPHABLOGS</h2>
+<p>Start Making Money Online</p>
+<p>HERE YOU CAN RELAX AND BROWSE EASILY THROUGH THE PAGES OF THI SITE AS YOU LEARN ABOUT CRYPTO
 What Is Cryptocurrency?
 Cryptocurrency is a digital asset designed to work as a medium of exchange. It uses cryptographic functions to conduct financial transactions. Through cryptography, it also controls and creates new units while verifies the transfer of assets.
 
@@ -187,7 +187,7 @@ How I created my first website on github
 
 WELCOME TO ALPHABLOGS
 learn all about cryptocurrency,get latest news,updates and so much more from here
-check through posts on here and click on any article to learn about crypto
+check through posts on here and click on any article to learn about crypto</p>
 
 SUGGESTIONS,FEEDBACK and QUESTIONS.
 
