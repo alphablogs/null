@@ -4,7 +4,7 @@
 
 <h1>What Is Cryptocurrency?</h1>
 
-<>Cryptocurrency is a digital asset designed to work as a medium of exchange. It uses cryptographic functions to conduct financial transactions. Through cryptography, it also controls and creates new units while verifies the transfer of assets.</p>
+<p>Cryptocurrency is a digital asset designed to work as a medium of exchange. It uses cryptographic functions to conduct financial transactions. Through cryptography, it also controls and creates new units while verifies the transfer of assets.</p>
 
 <h2>The top cryptocurrency is Bitcoin, partly because it is the one that started it all.</h2>
 
