@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: alphablogs.github.io
+Token: 7751473af12043ede8e92c97d058853742b011bd8f0da3018c310d681e6e8c0c
