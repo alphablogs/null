@@ -13,7 +13,7 @@
 <p>Cryptocurrency is a digital alternative to money that holds its value based on supply and demand.</p>
 <p>dive into the cryptoworld</p>
 <p>choose from our list of recently updated news and updated post</p>
-<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(176,166,166,0.4)" font-color="rgba(5,56,5,1)" posts-number="9" content-ids="ezROm6q4rN89jJKB,KbyZw8mV9KYNPelL,OgaP0YKAXvQ9oyeW" width="600"></publish0x-posts-widget>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(114,106,106,0.77)" font-color="rgba(2,29,25,1)" posts-number="9" content-ids="e1K3D8ZmglQvZb67,652okqxBp58vGOaZ,6zXRvqk1w58lA4Kn" width="600"></publish0x-posts-widget>
 <p>It is of a truth that cryptocurrency is no more news to most people...as at last report on a statistics carried out by an american based research group atleast 42 million bit coin wallet exists.</p>
 <p>42 Million Bitcoin Wallets.</p>
 <p>Currently,42 million bitcoin wallets according to data compiled by Statista. However, most bitcoin users have several bitcoin wallets and use multiple wallet addresses to increase their financial privacy when transacting in bitcoin. Hence, the total number of bitcoin users must be less than 42 million.....although some have come to embrace the cryptocurrencies and it advantages due to FOMO(fear of missing out) some tend to embrace it due to fact and understanding they have on it.No matter how you've chosen to embrace or accept cryptocurrency ,the fact is it has come to stay.</p>
@@ -25,9 +25,9 @@
 <p>Yea you read right $0,I came to learn I can earn cryoto by just reading and writing articles.</p>
 <P>introducing you to publish0x a site where you can actually post and read articles to earn cryptocurrencies.</p>
 <a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a><a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a><a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a>
-<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(176,166,166,0.4)" font-color="rgba(5,56,5,1)" posts-number="9" content-ids="ezROm6q4rN89jJKB,KbyZw8mV9KYNPelL,OgaP0YKAXvQ9oyeW" width="600"></publish0x-posts-widget>
 <p>I also came to earn lots of crypto from faucets and some other avenues which I will be glad to share with you as you read on.</p>
 <p>People thought cryptocurrency would be just another fad. A short-lived craze that comes and goes.</p>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(114,106,106,0.77)" font-color="rgba(2,29,25,1)" posts-number="9" content-ids="e1K3D8ZmglQvZb67,652okqxBp58vGOaZ,6zXRvqk1w58lA4Kn" width="600"></publish0x-posts-widget>
 <p>Fast forward a decade, and cryptocurrencies have not outstayed their welcome.</p>
 <p>In fact, they’re here to stay.</p>
 <p>They’ve grown by leaps and bounds, and the trend is set to continue.</p>
@@ -50,7 +50,6 @@
 <p>WELCOME TO ALPHABLOGS</p>
 <p>learn all about cryptocurrency,get latest news,updates and so much more from here</p>
 <p>check through posts on here and click on any article to learn about crypto</p>
-
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
 <h2>alphainitial1@gmail.com</h2>
 
