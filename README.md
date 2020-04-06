@@ -44,6 +44,8 @@
 <p>But how did this craze came to be? And how has it been going for so long?</p>
 <p>We’ve got you covered with the latest stats.</p>
 <h1># LATEST CRYPTO NEWS.</h1>
+<h3>BITCOIN HITS $7OOO amidst lockdown</h3>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(99,86,86,0.52)" font-color="rgba(10,63,27,1)" content-ids="r6XW4jQr2ZQvyMwE,vK3yj8Vv0g896Ll1,pZMr2OYPo8ANly51" width="600"></publish0x-posts-widget>
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(1,1,18,1)" font-color="rgba(36,209,109,1)" posts-number="9" content-ids="652okqxgm2YvGOaZ,r6XW4jQr2ZQvyMwE,n41VEQGrjaqMJD0g" width="600"></publish0x-posts-widget>
 <h2>trending posts on publish0x</h2>
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(1,1,18,1)" font-color="rgba(36,209,109,1)" posts-number="9" content-ids="652okqxgm2YvGOaZ,r6XW4jQr2ZQvyMwE,n41VEQGrjaqMJD0g" width="600"></publish0x-posts-widget>
