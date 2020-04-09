@@ -12,6 +12,7 @@
 
 <p>Cryptocurrency is a digital alternative to money that holds its value based on supply and demand.</p>
 <p>dive into the cryptoworld</p>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(16,25,101,1)" font-color="rgba(45,185,22,1)" content-ids="7jGv28WP6GY9wZKW" width="600"></publish0x-posts-widget>
 <p>choose from our list of recently updated news and updated post</p>
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(114,106,106,0.77)" font-color="rgba(2,29,25,1)" posts-number="9" content-ids="e1K3D8ZmglQvZb67,652okqxBp58vGOaZ,6zXRvqk1w58lA4Kn" width="600"></publish0x-posts-widget>
 <p>It is of a truth that cryptocurrency is no more news to most people...as at last report on a statistics carried out by an american based research group atleast 42 million bit coin wallet exists.</p>
