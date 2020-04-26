@@ -55,14 +55,8 @@
 <p>learn all about cryptocurrency,get latest news,updates and so much more from here</p>
 <p>check through posts on here and click on any article to learn about crypto</p>
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
-<h2>alphainitial1@gmail.com</h2>
-nction is below. Notice that edge cases are not handled, such as empty currency or negative amount.
-
-It is assumed that the currency array is sorted. If not, sort it with Arrays.sort(currency).
-
-public class FindMinimumCoinsTest {
-
-  @Test
+<h2>alphainitial1@gmail.com</h2> 
+{ @Test
   public void test() throws Exception {
       int[] USA = { 1, 5, 10, 25, 50 };
       assertEquals(2, findMinCoins(USA, 11));
