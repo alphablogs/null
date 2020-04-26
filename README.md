@@ -56,28 +56,3 @@
 <p>check through posts on here and click on any article to learn about crypto</p>
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
 <h2>alphainitial1@gmail.com</h2> 
-{ @Test
-  public void test() throws Exception {
-      int[] USA = { 1, 5, 10, 25, 50 };
-      assertEquals(2, findMinCoins(USA, 11));
-      assertEquals(4, findMinCoins(USA, 8));
-      assertEquals(4, findMinCoins(USA, 111));
-      assertEquals(3, findMinCoins(USA, 27));
-  }
-
-  public static int findMinCoins(int[] currency, int amount) {
-      int coins = 0;
-      int sum = 0;
-      int value, n;
-
-      for (int i = currency.length - 1; i >= 0; i--) {
-          value = currency[i];
-          n = (amount - sum) / value;
-          if (n > 0) {
-              coins += n;
-              sum += n * value;
-          }
-      }
-      return coins;
-    }
-}
