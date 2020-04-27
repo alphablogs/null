@@ -58,5 +58,4 @@
 <h2>alphainitial1@gmail.com</h2> 
 <main>
 <p> fur future fortune<p>
-<p>for cute for hope<p>
-</main>
+<p>for cute for hope<p></main>
