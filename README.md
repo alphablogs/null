@@ -1,7 +1,9 @@
 <h1>HELLO YOU!</h1>
 <h2>WELCOME TO ALPHABLOGS</h2>
+<main>
 <p>Start Making Money Online</p>
-<p>HERE YOU CAN RELAX AND BROWSE EASILY THROUGH THE PAGES OF THI SITE AS YOU LEARN ABOUT CRYPTO</p>
+<p>HERE YOU CAN RELAX AND BROWSE EASILY THROUGH THE PAGES OF THIS SITE AS YOU LEARN ABOUT CRYPTO.</p>
+</main>
 <h1>What Is Cryptocurrency?</h1>
 <p>Cryptocurrency is a digital asset designed to work as a medium of exchange. It uses cryptographic functions to conduct financial transactions. Through cryptography, it also controls and creates new units while verifies the transfer of assets.</p>
 
@@ -56,6 +58,3 @@
 <p>check through posts on here and click on any article to learn about crypto</p>
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
 <h2>alphainitial1@gmail.com</h2> 
-<main>
-<p> fur future fortune<p>
-<p>for cute for hope<p></main>
