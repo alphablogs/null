@@ -56,3 +56,7 @@
 <p>check through posts on here and click on any article to learn about crypto</p>
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
 <h2>alphainitial1@gmail.com</h2> 
+<main>
+<p> fur future fortune<p>
+<p>for cute for hope<p>
+</main>
