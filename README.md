@@ -36,6 +36,10 @@
 <p>Fast forward a decade, and cryptocurrencies have not outstayed their welcome.</p>
 <p>In fact, they’re here to stay.</p>
 <p>They’ve grown by leaps and bounds, and the trend is set to continue.</p>
+drawBox(ggggggg);
+drawBox(yyyyyyyy);
+newcolumn();
+Draw box(bbbbbbb);
 <h1>Fascinating Cryptocurrency Facts</h1>
 <p>A post about Bitcoin appears every 3 seconds on social media.</p>
 <p>The global blockchain market size is expected to reach $57 million by 2025.</p>
