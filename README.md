@@ -35,6 +35,7 @@
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(114,106,106,0.77)" font-color="rgba(2,29,25,1)" posts-number="9" content-ids="e1K3D8ZmglQvZb67,652okqxBp58vGOaZ,6zXRvqk1w58lA4Kn" width="600"></publish0x-posts-widget>
 <p>Fast forward a decade, and cryptocurrencies have not outstayed their welcome.</p>
 <p>In fact, they’re here to stay.</p>
+drawBox{"bbbbbbb"ggggggg"yyyyyyyy}
 <p>They’ve grown by leaps and bounds, and the trend is set to continue.</p>
 <h1>Fascinating Cryptocurrency Facts</h1>
 <p>A post about Bitcoin appears every 3 seconds on social media.</p>
