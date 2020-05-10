@@ -14,7 +14,6 @@
 <h2>So in brief:</h2>
 <a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
-
 <p>Cryptocurrency is a digital alternative to money that holds its value based on supply and demand.</p>
 <p>dive into the cryptoworld</p>
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" font-color="rgba(3,10,27,1)" content-ids="yb2elQna27q3dOaw" width="600"></publish0x-posts-widget>
@@ -67,6 +66,6 @@
 <p>learn all about cryptocurrency,get latest news,updates and so much more from here</p>
 <p>check through posts on here and click on any article to learn about crypto</p>
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
-<h2>alphainitial1@gmail.com</h2> 
+<h2>alphainitial1@gmail.com</h2>
 <a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
