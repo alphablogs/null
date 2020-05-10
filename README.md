@@ -1,5 +1,6 @@
 <h1>WELCOME TO ALPHABLOGS</h1>
 <main>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
 <p>Start Making Money Online</p>
 <p>HERE YOU CAN RELAX AND BROWSE EASILY THROUGH THE PAGES OF THIS SITE AS YOU LEARN ABOUT CRYPTO.</p>
 </main>
@@ -11,6 +12,8 @@
 <p>What makes cryptocurrency unique is that it is decentralized by nature and not controlled by any central or national bank. Cryptocurrency uses blockchain, which also makes it immune to control or interference by any government.</p>
 </main>
 <h2>So in brief:</h2>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 
 <p>Cryptocurrency is a digital alternative to money that holds its value based on supply and demand.</p>
 <p>dive into the cryptoworld</p>
@@ -26,6 +29,7 @@
 <p>I thought to myself how would I pay the bills and still meetup with socializing and the rest of my need if I cant earn an income everyday...this led me to a friend of mine who was working independently as a legal practitioner...we discussed at length and he mentioned some ways in which I could eventually become self employed soonest.</p>
 <p>During the 2nd quarter of 2019 i had learned about cryptocurrency from a news article I read somewhere I visited,at first I thought to myself I will I be able to take my own share of this when I don't even have enough knowledge of it.</p>
 <p>LO'and Behold I started my cryptojourney with $0.</p>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
 <p>Yea you read right $0,I came to learn I can earn cryoto by just reading and writing articles.</p>
 <P>introducing you to publish0x a site where you can actually post and read articles to earn cryptocurrencies.</p>
 <a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a><a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a><a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a>
@@ -34,9 +38,14 @@
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(114,106,106,0.77)" font-color="rgba(2,29,25,1)" posts-number="9" content-ids="e1K3D8ZmglQvZb67,652okqxBp58vGOaZ,6zXRvqk1w58lA4Kn" width="600"></publish0x-posts-widget>
 <p>Fast forward a decade, and cryptocurrencies have not outstayed their welcome.</p>
 <p>In fact, they’re here to stay.</p>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
 <p>They’ve grown by leaps and bounds, and the trend is set to continue.</p>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <h1>Fascinating Cryptocurrency Facts</h1>
 <p>A post about Bitcoin appears every 3 seconds on social media.</p>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <p>The global blockchain market size is expected to reach $57 million by 2025.</p>
 <p>There are 153 million Bitcoin user addresses in 2019.</p>
 <p>Between 3 million to 3.8 million of Bitcoins are lost forever.</p>
@@ -58,3 +67,5 @@
 <p>check through posts on here and click on any article to learn about crypto</p>
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
 <h2>alphainitial1@gmail.com</h2> 
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
