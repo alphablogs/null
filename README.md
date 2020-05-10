@@ -1,4 +1,5 @@
 <h1>WELCOME TO ALPHABLOGS</h1>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <main>
 <a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
 <p>Start Making Money Online</p>
