@@ -48,6 +48,7 @@
 <a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <p>The global blockchain market size is expected to reach $57 million by 2025.</p>
 <p>There are 153 million Bitcoin user addresses in 2019.</p>
+<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <p>Between 3 million to 3.8 million of Bitcoins are lost forever.</p>
 <p>Bitcoin accounts for $6 billionof daily transactions.</p>
 <p>The current market cap of Bitcoin sits at $144.96 billion.</p>
