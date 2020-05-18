@@ -6,6 +6,8 @@
 <p>HERE YOU CAN RELAX AND BROWSE EASILY THROUGH THE PAGES OF THIS SITE AS YOU LEARN ABOUT CRYPTO.</p>
 </main>
 <h1>What Is Cryptocurrency?</h1>
+<script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+<coingecko-coin-ticker-widget currency="usd" coin-id="litecoin" locale="en"></coingecko-coin-ticker-widget>
 <main>
 <p>Cryptocurrency is a digital asset designed to work as a medium of exchange. It uses cryptographic functions to conduct financial transactions. Through cryptography, it also controls and creates new units while verifies the transfer of assets.</p>
 
