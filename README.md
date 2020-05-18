@@ -12,6 +12,8 @@
 <p>Cryptocurrency is a digital asset designed to work as a medium of exchange. It uses cryptographic functions to conduct financial transactions. Through cryptography, it also controls and creates new units while verifies the transfer of assets.</p>
 
 <p>The top cryptocurrency is Bitcoin, partly because it is the one that started it all.</p>
+<script src="https://widgets.coingecko.com/coingecko-coin-converter-widget.js"></script>
+<coingecko-coin-converter-widget  coin-id="bitcoin" currency="usd" background-color="#ffffff" font-color="#4c4c4c" locale="en"></coingecko-coin-converter-widget>
 <p>What makes cryptocurrency unique is that it is decentralized by nature and not controlled by any central or national bank. Cryptocurrency uses blockchain, which also makes it immune to control or interference by any government.</p>
 </main>
 <h2>So in brief:</h2>
