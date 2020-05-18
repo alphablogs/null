@@ -174,4 +174,4 @@ jobs:
 #              travis_wait 50 contrib/verify-commits/verify-commits.py;
 #          fi
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-time-machine
