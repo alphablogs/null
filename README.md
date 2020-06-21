@@ -1,8 +1,5 @@
 <h1>WELCOME TO ALPHABLOGS</h1>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
-<main>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
-<p>Start Making Money Online</p>
+
 <p>HERE YOU CAN RELAX AND BROWSE EASILY THROUGH THE PAGES OF THIS SITE AS YOU LEARN ABOUT CRYPTO.</p>
 </main>
 <h1>What Is Cryptocurrency?</h1>
@@ -17,8 +14,6 @@
 <p>What makes cryptocurrency unique is that it is decentralized by nature and not controlled by any central or national bank. Cryptocurrency uses blockchain, which also makes it immune to control or interference by any government.</p>
 </main>
 <h2>So in brief:</h2>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <p>Cryptocurrency is a digital alternative to money that holds its value based on supply and demand.</p>
 <p>dive into the cryptoworld</p>
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" font-color="rgba(3,10,27,1)" content-ids="yb2elQna27q3dOaw" width="600"></publish0x-posts-widget>
