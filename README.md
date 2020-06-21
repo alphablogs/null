@@ -36,12 +36,8 @@
 <p>People thought cryptocurrency would be just another fad. A short-lived craze that comes and goes.</p>
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="YRdGM48aDz" background-color="rgba(114,106,106,0.77)" font-color="rgba(2,29,25,1)" posts-number="9" content-ids="e1K3D8ZmglQvZb67,652okqxBp58vGOaZ,6zXRvqk1w58lA4Kn" width="600"></publish0x-posts-widget>
 <p>Fast forward a decade, and cryptocurrencies have not outstayed their welcome.</p>
-<p>In fact, they’re here to stay.</p>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
+<p2>In fact, they’re here to stay.</p2>
 <p>They’ve grown by leaps and bounds, and the trend is set to continue.</p>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <h1>Fascinating Cryptocurrency Facts</h1>
 <p>A post about Bitcoin appears every 3 seconds on social media.</p>
 <a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
@@ -67,5 +63,3 @@
 <p>check through posts on here and click on any article to learn about crypto</p>
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
 <h2>alphainitial1@gmail.com</h2>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
