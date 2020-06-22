@@ -24,12 +24,11 @@
 <p>42 Million Bitcoin Wallets.</p>
 <p>Currently,42 million bitcoin wallets according to data compiled by Statista. However, most bitcoin users have several bitcoin wallets and use multiple wallet addresses to increase their financial privacy when transacting in bitcoin. Hence, the total number of bitcoin users must be less than 42 million.....although some have come to embrace the cryptocurrencies and it advantages due to FOMO(fear of missing out) some tend to embrace it due to fact and understanding they have on it.No matter how you've chosen to embrace or accept cryptocurrency ,the fact is it has come to stay.</p>
 <h1>A BIT ABOUT MY CRYPTO JOURNEY</h1>
-<p>It was the early hours of Wednesday morning and I was still in bed (although awake) pondering on my move for the day...I had lost my job as a contract staff in one of the electrical companies working on a big project in the country.I was now looking for a way to start earning some income once more.</p>
+<p>It was the early hours one morning and I was still in bed (although awake) pondering on my move for the day...I had lost my job as a contract staff in one of the electrical companies working on a big project in the country.I was now looking for a way to start earning some income once more.</p>
 <p>I thought to myself how would I pay the bills and still meetup with socializing and the rest of my need if I cant earn an income everyday...this led me to a friend of mine who was working independently as a legal practitioner...we discussed at length and he mentioned some ways in which I could eventually become self employed soonest.</p>
 <p>During the 2nd quarter of 2019 i had learned about cryptocurrency from a news article I read somewhere I visited,at first I thought to myself I will I be able to take my own share of this when I don't even have enough knowledge of it.</p>
 <p>LO'and Behold I started my cryptojourney with $0.</p>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-leaderboard_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin" /></a>
-<p>Yea you read right $0,I came to learn I can earn cryoto by just reading and writing articles.</p>
+<p>Yea you read right $0,I came to learn I can earn cryoto by just reading and writing articles.I also came to learn of freefaucets,airdrops and more with which I was able to accumulate some crypto and grow my portfolio</p>
 <P>introducing you to publish0x a site where you can actually post and read articles to earn cryptocurrencies.</p>
 <a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a><a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a><a href="https://www.publish0x.com?a=YRdGM48aDz"><img src="https://cdn.publish0x.com/prod/fs/images/05ed230ce80c4ef97b96a5f8ef1e48a8958c20c9af1123830af28ec936895ad5.png" width="160" height="600" /></a>
 <p>I also came to earn lots of crypto from faucets and some other avenues which I will be glad to share with you as you read on.</p>
@@ -40,10 +39,8 @@
 <p>They’ve grown by leaps and bounds, and the trend is set to continue.</p>
 <h1>Fascinating Cryptocurrency Facts</h1>
 <p>A post about Bitcoin appears every 3 seconds on social media.</p>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <p>The global blockchain market size is expected to reach $57 million by 2025.</p>
 <p>There are 153 million Bitcoin user addresses in 2019.</p>
-<a href="https://ltcminer.us/965321" target="_blank"><img src="https://ltcminer.us/banners/litecoin-main-banner_256.gif" alt="Litecoin Miner - Mine and Earn free Litecoin." /></a>
 <p>Between 3 million to 3.8 million of Bitcoins are lost forever.</p>
 <p>Bitcoin accounts for $6 billionof daily transactions.</p>
 <p>The current market cap of Bitcoin sits at $144.96 billion.</p>
