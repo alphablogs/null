@@ -61,4 +61,4 @@
 <p>SUGGESTIONS,FEEDBACK and QUESTIONS.</p>
 <h2>alphainitial1@gmail.com</h2>
 
-Earn GRAM...https://GramFree.world/?r=2191438
+Earn GRAM.  https://GramFree.world/?r=2191438
